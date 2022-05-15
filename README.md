@@ -1,13 +1,13 @@
-All apps made by me:
-
-Floppy Disks
-https://itunes.apple.com/ca/app/floppy-disks/id1330346902?mt=8
-
-Big Brother - 1984
-https://itunes.apple.com/ca/app/big-brother-1984/id1357900211?mt=8
+All apps made solely by me:
 
 Minute Chem
-https://itunes.apple.com/ca/app/minute-chem/id1344643522?mt=8
+https://apps.apple.com/us/app/minute-chem/id1344643522
 
 451
-https://itunes.apple.com/ca/app/451/id1380547740?mt=8
+https://apps.apple.com/us/app/451/id1380547740
+
+Big Brother - 1984
+https://apps.apple.com/us/app/big-brother-1984/id1357900211
+
+Floppy Disks
+https://apps.apple.com/us/app/floppy-disks/id1330346902
