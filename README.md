@@ -1,4 +1,4 @@
-All apps made solely by me:
+All apps made solely by me! Here are the links to Apple's App Store
 
 Minute Chem
 https://apps.apple.com/ca/app/minute-chem/id1344643522
